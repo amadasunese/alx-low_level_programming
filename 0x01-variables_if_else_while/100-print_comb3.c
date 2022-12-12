@@ -19,8 +19,8 @@ putchar(ones + '0');
 
 if (tens < 8)
 {
-	putchar(',');
-	putchar(' ');
+putchar(',');
+putchar(' ');
 }
 }
 }
