@@ -1,21 +1,19 @@
-#include "main.h"
+#include “main.h”
 
 /**
-* print the alphabet in lowercase.
+
+* Print the alphabet in lowercase.
 *
 * Return: void.
 */
 
-void print_alphabet(void);
+void print_alphabet(void)
 {
-
 	int i;
 
 	for (i = 97; i < 123; i++)
-
 		{
-		_putchar(i);
+		put-char(i);
 		}
 		_putchar('\n');
-
 }
