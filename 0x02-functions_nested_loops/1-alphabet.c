@@ -12,16 +12,7 @@ void print_alphabet(void)
 	int i;
 	for (i = 97; i < 123; i++)
 	{
-		put-char(i);
+	_putchar(i);
 	}
-
-void print_alphabet(void)
-{
-	int i;
-
-	for (i = 97; i < 123; i++)
-		{
-		put-char(i);
-		}
-		_putchar('\n');
+	_putchar('\n');
 }
