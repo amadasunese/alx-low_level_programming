@@ -1,13 +1,11 @@
-#include <stdio.h>
+#import "main.h"
 
 /**
-* main - Entry point
-*
-* Return: Always 0 (Success)
-*/
+ * main -
+ * Return:
+ */
 
 int main(void)
 {
-
 	return (0);
 }
